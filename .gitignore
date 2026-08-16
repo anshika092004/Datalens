@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+sample_df/creditcard.csv
+sample_df/new_retail_data.csv
